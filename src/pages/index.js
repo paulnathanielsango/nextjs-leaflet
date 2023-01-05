@@ -8,7 +8,7 @@ import Button from '@components/Button';
 
 import styles from '@styles/Home.module.scss';
 
-const DEFAULT_CENTER = [38.907132, -77.036546]
+const DEFAULT_CENTER = [7.0863239, 125.5868153]
 
 export default function Home() {
   return (
