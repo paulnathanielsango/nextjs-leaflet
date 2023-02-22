@@ -22,7 +22,7 @@ export default function Home() {
       <Section>
         <Container>
           <h1 className={styles.title}>
-            Next.js Leaflet
+            Next.js Leaflet by Paolo Sango
           </h1>
 
           <Map className={styles.homeMap} width="800" height="400" center={DEFAULT_CENTER} zoom={12}>
@@ -46,7 +46,7 @@ export default function Home() {
           </p>
 
           <p className={styles.view}>
-            <Button href="https://github.com/paulnathanielsango/leaflet-map">Vew on GitHub</Button>
+            <Button href="https://github.com/paulnathanielsango/nextjs-leaflet">View on GitHub</Button>
           </p>
         </Container>
       </Section>

@@ -1,7 +1,7 @@
 {
   "name": "next-leaflet",
   "version": "0.1.0",
-  "author": "Paul Nathaniel",
+  "author": "Paolo Sango",
   "private": true,
   "scripts": {
     "dev": "next dev",
